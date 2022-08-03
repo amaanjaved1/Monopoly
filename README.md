@@ -1,5 +1,5 @@
 # Monopoly Duel
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/HQeayEhyAG4
 #### Description:
 Text based two player monopoly game developed using python. Utilized concepts such as list manipulation and object oriented programming.
  
